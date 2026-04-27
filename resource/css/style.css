@@ -21,7 +21,7 @@ path {
 } */
 
 .svg-main > path {
-  stroke: var(--black);
+  stroke: var(--white);
   animation: path var(--duration) ease forwards;
   animation-delay: var(--delay);
 }
@@ -62,8 +62,8 @@ body {
   z-index: 2;
   /* background: linear-gradient(135deg, #fffff0, #fffff0); */
   background-color: var(--mainClrLight);
-  mix-blend-mode: overlay;
-  opacity: 0.3;
+  /* mix-blend-mode: overlay;
+  opacity: 0.3; */
 }
 .logo {
   position: absolute;
