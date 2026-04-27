@@ -111,14 +111,14 @@ body {
   padding: 40px;
   text-align: center;
   background-color: var(--mainClr);
-  color: var(--white);
+  color: var(--black);
   font-size: 70px;
   letter-spacing: 15px;
 }
 .secTit {
   padding: 40px;
   text-align: center;
-  color: var(--white);
+  color: var(--black);
   font-size: 65px;
 }
 .videoItem {
@@ -213,7 +213,7 @@ small {
 .profileTextBox {
   width: 100%;
   * {
-    color: var(--white);
+    color: var(--black);
   }
   pre,
   .pre {
