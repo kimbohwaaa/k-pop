@@ -21,7 +21,7 @@ path {
 } */
 
 .svg-main > path {
-  stroke: var(--white);
+  stroke: var(--black);
   animation: path var(--duration) ease forwards;
   animation-delay: var(--delay);
 }
